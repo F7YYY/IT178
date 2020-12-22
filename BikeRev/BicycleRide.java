@@ -1,13 +1,4 @@
-/*
- *  FILE:       BicycleRide.java
- *
- *  DATE:       AUGUST 20, 2020
- *  CLASS:      IT 178
- */
-package IT178.BikeRev;
-
 import java.util.Scanner;
-
 public class BicycleRide { //* BICYCLE DRIVER CLASS - BEGINNING
   //* STATIC INSTANCES
   static Scanner in = new Scanner(System.in);
@@ -54,8 +45,6 @@ public class BicycleRide { //* BICYCLE DRIVER CLASS - BEGINNING
     } while (num != 0);
     System.out.println("\n=============================="
                        + "\n+ DAVID KIM - BICYCLE REVIEW +"
-                       + "\n=============================="
-                       + "\n+ + +  C# => C++ > JAVA  + + +"
                        + "\n==============================\n");
     System.exit(0);
   }

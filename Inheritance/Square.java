@@ -1,13 +1,4 @@
-/*
- *  FILE:       SQUARE.JAVA
- *
- *  DATE:       SEPTEMBER 25, 2020
- *  CLASS:      IT 178
- */
-package IT178.Inheritance;
-
 public class Square extends Parallelogram { //* SQUARE INHERITING QUAD_CLASS
-
   public Square(final double x1, final double y1, final double x2,
                 final double y2, final double x3, final double y3,
                 final double x4, final double y4) { //* MODIFIED CONSTRUCTOR

@@ -1,11 +1,3 @@
-/*
- *  FILE:       Ship.java
- *
- *  DATE:       20 SEPTEMBER, 2020
- *  CLASS:      IT 178
- */
-package IT178.ArrayList;
-
 public class Ship { //* SHIP CLASS
   //* INSTANCES
   private String shipnames;

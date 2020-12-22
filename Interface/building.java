@@ -1,11 +1,3 @@
-/*
- *  FILE:       BUILDING.JAVA
- *
- *  DATE:       OCTOBER 1, 2020
- *  CLASS:      IT 178
- */
-package IT178.Interface;
-
 public class building
     implements carbonfootprint { //* FOOTPRINT INTERFACING BUILDING
                                  //* INSTANCES

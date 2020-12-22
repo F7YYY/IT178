@@ -1,11 +1,3 @@
-/*
- *  FILE:       QUADRILATERAL.JAVA
- *
- *  DATE:       SEPTEMBER 25, 2020
- *  CLASS:      IT 178
- */
-package IT178.Inheritance;
-
 public class Quadrilateral { //* QUADRILATERAL CLASS
   //* INSTANCES
   private Point p1, p2, p3, p4;

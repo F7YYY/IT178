@@ -1,13 +1,4 @@
-/*
- *  FILE:       TRAPEZOID.JAVA
- *
- *  DATE:       SEPTEMBER 25, 2020
- *  CLASS:      IT 178
- */
-package IT178.Inheritance;
-
 import java.text.DecimalFormat;
-
 public class Trapezoid
     extends Quadrilateral { //* TRAPEZOID INHERITNG QUAD_CLASS
   //* INSTANCES

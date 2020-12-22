@@ -1,12 +1,4 @@
-/*
- *  FILE:       MAZE.JAVA
- *
- *  DATE:       OCTOBER 10, 2020
- *  CLASS:      IT 178
- */
-package Recursion;
 import java.util.Scanner;
-
 public class maze { //* DRIVER
                     //* INSTANCES / INITIALIZED
   static Scanner in = new Scanner(System.in);
@@ -94,10 +86,9 @@ public class maze { //* DRIVER
    * @param c - COLUMBS
    */
   public static void backtrack(int count, int r, int c) {
-    while (count >= 2) {
-      if (maze[r][c] == x)
-        maze[r][c] = ' ';
+    while (maze[r][c] == x) {
       backtrack(count - 1, r, c);
+      maze[r][c] = ' ';
     }
   }
 

@@ -1,11 +1,3 @@
-/*
- *  FILE:       POINT.JAVA
- *
- *  DATE:       SEPTEMBER 25, 2020
- *  CLASS:      IT 178
- */
-package IT178.Inheritance;
-
 public class Point { //* POINT CLASS
   //* INSTANCES
   private double x, y;

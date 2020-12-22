@@ -1,11 +1,3 @@
-/*
- *  FILE:       BICYCLE.JAVA
- *
- *  DATE:       OCTOBER 1, 2020
- *  CLASS:      IT 178
- */
-package IT178.Interface;
-
 public class bicycle
     implements carbonfootprint { //* FOOTPRINT INTERFACING BICYCLE
   public double getCarbonFootprint() { return 0; } //* ZER0 EMISSIONS

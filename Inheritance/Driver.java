@@ -1,11 +1,3 @@
-/*
- *  FILE:       DRIVER.JAVA
- *
- *  DATE:       SEPTEMBER 25, 2020
- *  CLASS:      IT 178
- */
-package IT178.Inheritance;
-
 public class Driver {                            //* DRIVER CLASS
   public static void main(final String[] args) { //* MAIN METHOD
     //* HARDCODING CORDINATES TO QUADRILATERAL CLASS

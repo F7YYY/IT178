@@ -1,11 +1,3 @@
-/*
- *  FILE:       ShipSail.java
- *
- *  DATE:       20 SEPTEMBER, 2020
- *  CLASS:      IT 178
- */
-package IT178.ArrayList;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -782,8 +774,6 @@ public class ShipSail { //* SHIP DRIVER CLASS
     System.out.println( //* OOH $0 PWETTY
         "========================"
         + "\n+ + C# >= C++ > JAVA + +"
-        + "\n========================"
-        + "\n+DAVID KIM - ARRAY LIST+"
         + "\n========================\n");
   }
 }

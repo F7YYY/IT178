@@ -1,11 +1,3 @@
-/*
- *  FILE:       Cruise.java
- *
- *  DATE:       20 SEPTEMBER, 2020
- *  CLASS:      IT 178
- */
-package IT178.ArrayList;
-
 public class Cruise { //* CRUISE CLASS
   //* INSTANCES
   private String cruisename, shipname, port, rport, destination;

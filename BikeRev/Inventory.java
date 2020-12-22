@@ -1,11 +1,3 @@
-/*
- *  FILE:       Inventory.java
- *
- *  DATE:       AUGUST 25, 2020
- *  CLASS:      IT 178
- */
-package IT178.BikeRev;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -279,7 +271,7 @@ public class Inventory { //* INVENTORY CLASS - BEGINNING
     return bike[choice];
   }
 
-  /* ============================================================
+  /* ===========================================
    * getbikes creates copy
    * Loops until index of size transfers to copy
    * @return copy OF BICYCLES IN FILE

@@ -1,11 +1,3 @@
-/*
- *  FILE:       Bicycle.java
- *
- *  DATE:       AUGUST 25, 2020
- *  CLASS:      IT 178
- */
-package IT178.BikeRev;
-
 public class Bicycle { //* BICYCLE CLASS - BEGINNING
   //* PRIVATE INSTANCES
   private String type;

@@ -1,11 +1,3 @@
-/*
- *  FILE:       Passenger.java
- *
- *  DATE:       20 SEPTEMBER, 2020
- *  CLASS:      IT 178
- */
-package IT178.ArrayList;
-
 public class Passenger { //* PASSENGER CLASS
   //* INSTANCES
   private String passengername, cruisename, roomrequest;

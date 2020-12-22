@@ -1,11 +1,3 @@
-/*
- *  FILE:       CARBONFOOTPRINTDRIVER.JAVA
- *
- *  DATE:       OCTOBER 1, 2020
- *  CLASS:      IT 178
- */
-package IT178.Interface;
-
 public class carbonFootprintDriver { //* CARBON-FOOTPRINT DRIVER
   //* INSTANCES
   static carbonfootprint[] cfp = new carbonfootprint[3];

@@ -1,9 +1,3 @@
-/*
- *  FILE:       TempDriver.java
- *
- *  DATE:       2 SEPTEMBER, 2020
- *  CLASS:      IT 178
- */
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -147,8 +141,6 @@ public class TempDriver { //* TEMP DRIVER - BEGINNING
     print(arr);
     System.out.println("========================"
                        + "\n+ + C# => C++ > JAVA + +"
-                       + "\n========================"
-                       + "\n+ DAVID KIM - 2D ARRAY +"
                        + "\n========================\n");
     System.exit(0);
   }

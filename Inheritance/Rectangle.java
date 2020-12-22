@@ -1,13 +1,4 @@
-/*
- *  FILE:       RECTANGLE.JAVA
- *
- *  DATE:       SEPTEMBER 25, 2020
- *  CLASS:      IT 178
- */
-package IT178.Inheritance;
-
 public class Rectangle extends Parallelogram { //* RETANGLE INHERTING PARA_CLASS
-
   public Rectangle(final double x1, final double y1, final double x2,
                    final double y2, final double x3, final double y3,
                    final double x4, final double y4) { //* MODIFIED CONSTRUCTOR
